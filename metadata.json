@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI",
+  "description": "AI-Powered Civic Issue Management & Action Platform for Citizens & Municipal Administrators with Real Camera Capture, Hotspot Clusters & Judge Tour",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
